@@ -1,6 +1,6 @@
 # 오늘은 어떤 빵을 먹을까?
 
-- 서비스 링크: [GitHub Pages](https://seoheejung.github.io/bread-today/)
+- 서비스 링크: [GitHub Pages](https://seo-gali.github.io/bread-today/)
 - 추가 링크: [Link24](https://link24.kr/H6kiXFB)
 
 > 12개의 선택을 통한 오늘의 베이커리 취향 테스트
